@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmppBot-CannedResponse", "XmppBot-CannedResponse.csproj", "{86D7B774-3471-4369-9E7A-46595BEEC6C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CannedResponse.Tests", "CannedResponse.Tests\CannedResponse.Tests.csproj", "{BD0E0F4D-4797-4803-BB58-CD5E22E8AF01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86D7B774-3471-4369-9E7A-46595BEEC6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D7B774-3471-4369-9E7A-46595BEEC6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D7B774-3471-4369-9E7A-46595BEEC6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D7B774-3471-4369-9E7A-46595BEEC6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0E0F4D-4797-4803-BB58-CD5E22E8AF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0E0F4D-4797-4803-BB58-CD5E22E8AF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0E0F4D-4797-4803-BB58-CD5E22E8AF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0E0F4D-4797-4803-BB58-CD5E22E8AF01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
