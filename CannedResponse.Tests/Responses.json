@@ -1,5 +1,5 @@
 ﻿[
 {ExactMatch:"true", Trigger:"This is the exact trigger", Text:"This is the exact response"},
 {ExactMatch:"false", Trigger:"fnord", Text:"You said fnord!"},
-{ExactMatch:"false", Trigger:"a trap", Text:"https://skydrive.live.com/redir?resid=3F2CFE9060480107%21285"}
+{ExactMatch:"false", Trigger:"a trap", Text:"http://i.imgur.com/5ntzDO8.jpg"}
 ]
