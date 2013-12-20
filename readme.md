@@ -28,5 +28,5 @@ The `.json` file should contain an array of phrase objects; phrase objects need 
 	{ExactMatch:"false", Trigger:"trap", Text:"It's a trap!"}
 	]
 	
-In the example, any string with 'trap' in it will trigger the response; to trigger the first response, the entire string must match the trigger phrase.
+In the example, any string with 'trap' in it will trigger the "It's a trap!" response; to trigger the first response, the entire string must match the trigger phrase.
 	
